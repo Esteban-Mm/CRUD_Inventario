@@ -1,0 +1,12 @@
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.agregar.resources
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.Main.resources
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Esteban Muñoz\source\repos\Inventario\Inventario\obj\Debug\Inventario.pdb
