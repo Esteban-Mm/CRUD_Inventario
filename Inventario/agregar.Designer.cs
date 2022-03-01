@@ -47,11 +47,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(288, 53);
+            this.label1.Location = new System.Drawing.Point(106, 49);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(385, 36);
+            this.label1.Size = new System.Drawing.Size(547, 36);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Agrega tu nuevo producto";
+            this.label1.Text = "Agrega o actualiza tu nuevo producto";
             // 
             // label2
             // 
